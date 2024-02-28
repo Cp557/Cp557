@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I am Connor 👋
+
 
 <!--
 **Cp557/Cp557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
